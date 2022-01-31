@@ -4,4 +4,4 @@ My name is Herman, I'm a beginning Java Developer strongly ambitious about deliv
 Currently I’m proceeding with intensive self-education and looking for possibilities to deepen my knowledge and improve my skills.
 
 📫 You can reach me via email: herman@ciechanowiec.eu <br>
-💼 My Linkedin profile: [Herman Ciechanowiec](https://www.linkedin.com/in/herman-ciechanowiec/)
+💼 My Linkedin profile: [Herman Ciechanowiec](https://www.linkedin.com/in/ciechanowiec/)
