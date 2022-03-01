@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Herman, I'm a beginning Java Developer strongly ambitious about delivering of high-quality code and endeavoring to bring possibly greatest value for business. 
+My name is Herman, I'm a Junior Software Engineer at EPAM Systems strongly ambitious about delivering of high-quality code and endeavoring to bring possibly greatest value for business. 
 Currently I’m proceeding with intensive self-education and looking for possibilities to deepen my knowledge and improve my skills.
 
 📫 You can reach me via email: herman@ciechanowiec.eu <br>
-💼 My LinkedIn profile and public CV: [Herman Ciechanowiec](https://www.linkedin.com/in/ciechanowiec/)<br/>
+💼 My LinkedIn profile: [Herman Ciechanowiec](https://www.linkedin.com/in/ciechanowiec/)<br/>
 
 ### Personal Projects
 Check out some of my personal projects:<br/>
