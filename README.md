@@ -12,7 +12,7 @@ Check out some of my personal projects:<br/>
 🌕 [Live Mars Weather Monitor](https://github.com/ciechanowiec/mars)<br/>
 This program is an [online](https://live-mars.herokuapp.com) Mars weather monitor. It shows the latest results of daily weather measurements taken by Curiosity Rover at Gale Crater in the southern hemisphere of Mars, near the equator.<br/>
 
-:arrows_clockwise: [Mantra](https://github.com/ciechanowiec/mantra)
+:arrows_clockwise: [Mantra](https://github.com/ciechanowiec/mantra)<br/>
 This program is a Shell script for Linux Ubuntu. Its purpose is to create a template Java project with Maven, JUnit and Git functionality out of the box.<br/>
 
 📚 [Cloud Books Manager](https://github.com/ciechanowiec/cloud_books_manager)<br/>
