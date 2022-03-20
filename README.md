@@ -16,7 +16,7 @@ This program is an [online](https://live-mars.herokuapp.com) Mars weather monito
 This program is a Shell script for Linux Ubuntu. Its purpose is to create a template Java project with Maven, JUnit and Git functionality out of the box.<br/>
 
 📚 [Cloud Books Manager](https://github.com/ciechanowiec/cloud_books_manager)<br/>
-This program is a books manager [web-application](https://cloud-books.herokuapp.com/) which allows to browse and edit stored data. The data is stored in a cloud database at Google Cloud Platform.<br/>
+This program is a books manager web-application which allows to browse and edit stored data. The data is stored in a cloud database at Google Cloud Platform.<br/>
 
 💱 [Live Currency Converter](https://github.com/ciechanowiec/live_currency_converter)<br/>
 This program is a desktop live currency converter. It supports 36 currencies and retrieves data on the exchange rates from National Bank of Poland in real time. The program provides currency conversion for any day since 1 January 2002 till now.<br/>
