@@ -15,6 +15,9 @@ This program is an [online](https://live-mars.herokuapp.com) Mars weather monito
 :arrows_clockwise: [Mantra](https://github.com/ciechanowiec/mantra)<br/>
 This program is a Shell script for Linux Ubuntu. Its purpose is to create a template Java project with Maven, JUnit and Git functionality out of the box.<br/>
 
+:rocket: [IntelliJ IDEA Terminal Launcher](https://github.com/ciechanowiec/intellij_launcher)<br/>
+This program is a Shell script for Linux Ubuntu. Its purpose is to provide an easy-to-use and convenient tool to launch IntelliJ IDEA from a terminal.
+
 📚 [Cloud Books Manager](https://github.com/ciechanowiec/cloud_books_manager)<br/>
 This program is a books manager web-application which allows to browse and edit stored data. The data is stored in a cloud database at Google Cloud Platform.<br/>
 
