@@ -13,7 +13,7 @@ Check out some of my personal projects:<br/>
 This program is an [online](https://live-mars.herokuapp.com) Mars weather monitor. It shows the latest results of daily weather measurements taken by Curiosity Rover at Gale Crater in the southern hemisphere of Mars, near the equator.<br/>
 
 :arrows_clockwise: [Mantra](https://github.com/ciechanowiec/mantra)<br/>
-This program is a Shell script for Linux Ubuntu. Its purpose is to create a template Java project with Maven, JUnit and Git functionality out of the box.<br/>
+This program is a Shell script for Linux Ubuntu. Its purpose is to provide an easy-to-use and convenient tool to launch IntelliJ IDEA from a terminal.<br/>
 
 :rocket: [IntelliJ IDEA Terminal Launcher](https://github.com/ciechanowiec/intellij_launcher)<br/>
 This program is a Shell script for Linux Ubuntu. Its purpose is to provide an easy-to-use and convenient tool to launch IntelliJ IDEA from a terminal.
