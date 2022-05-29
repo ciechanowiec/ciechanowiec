@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My name is Herman, I'm a Junior Software Engineer at EPAM Systems, strongly ambitious about delivering of high-quality code and endeavoring to bring possibly greatest value for business. 
-Currently I’m proceeding with intensive self-education and looking for possibilities to deepen my knowledge and improve my skills.
+My name is Herman, I'm a Junior Software Engineer at EPAM Systems. Things I'm passionately driven by are Java (seeking for possibility to join JCP in future), effective delivery, deep dive into programming issues (e.g. why only `Throwable` and its subclasses can be thrown and how to change it?), work process automation (e.g. a script for full Linux setup and customization) and self-education.
+
+Besides programming I have a successful 6-year background experience as a Real Estate Development Lawyer and 2-year - as a Conference Center Manager.
 
 📫 You can reach me via email: herman@ciechanowiec.eu <br>
 💼 My LinkedIn profile: [Herman Ciechanowiec](https://www.linkedin.com/in/ciechanowiec/)<br/>
