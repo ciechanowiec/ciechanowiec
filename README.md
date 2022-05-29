@@ -13,8 +13,11 @@ Check out some of my personal projects:<br/>
 🌕 [Live Mars Weather Monitor](https://github.com/ciechanowiec/mars)<br/>
 This program is an [online](https://live-mars.herokuapp.com) Mars weather monitor. It shows the latest results of daily weather measurements taken by Curiosity Rover at Gale Crater in the southern hemisphere of Mars, near the equator.<br/>
 
-:arrows_clockwise: [Mantra](https://github.com/ciechanowiec/mantra)<br/>
+:arrows_clockwise: [Mantra](https://github.com/ciechanowiec/java_mantra)<br/>
 This program is a Shell script for Linux Ubuntu. Its purpose is to provide an easy-to-use and convenient tool for creating clean Java projects with basic dependencies and configuration out of the box (Maven, Git, TestNG etc.).<br/>
+
+:pill: [Throwable in Java](https://github.com/ciechanowiec/throwable)<br/>
+A workshop on `Throwable` in Java, mainly on its `Exception` subclass. It presents key points regarding that issue, relevant usage cases and specific application flows. Besides that there is an extended quiz (file questions.adoc stored in the root folder of the repository) to check the knowledge on Throwable in Java.<br/>
 
 :rocket: [IntelliJ IDEA Terminal Launcher](https://github.com/ciechanowiec/intellij_launcher)<br/>
 This program is a Shell script for Linux Ubuntu. Its purpose is to provide an easy-to-use and convenient tool to launch IntelliJ IDEA from a terminal.
